@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\bin\Debug\Animalsi.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\bin\Debug\Animalsi.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\bin\Debug\Animalsi.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\obj\Debug\Animals.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\obj\Debug\Animals.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\obj\Debug\Animals.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\obj\Debug\Animalsi.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Animalsi\obj\Debug\Animalsi.pdb

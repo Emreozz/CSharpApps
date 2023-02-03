@@ -1,0 +1,6 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\bin\Debug\AbstractwInterface.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\bin\Debug\AbstractwInterface.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\obj\Debug\AbstractwInterface.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\obj\Debug\AbstractwInterface.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\obj\Debug\AbstractwInterface.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\OOPDeneme\AbstractwInterface\obj\Debug\AbstractwInterface.pdb

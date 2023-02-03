@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "UIConsole2": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:56578;http://localhost:56579"
+    }
+  }
+}

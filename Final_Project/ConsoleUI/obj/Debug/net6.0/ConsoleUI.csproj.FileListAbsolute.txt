@@ -1,0 +1,5 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\ConsoleUI\obj\Debug\net6.0\ConsoleUI.csproj.CoreCompileInputs.cache

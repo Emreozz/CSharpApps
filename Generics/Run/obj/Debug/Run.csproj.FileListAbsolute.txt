@@ -1,0 +1,12 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Run.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Run.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Run.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Generics.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Generics.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\bin\Debug\Generics.dll.config
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.csproj.CopyComplete
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Run\obj\Debug\Run.pdb

@@ -1,0 +1,11 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.SQLDataBase.Entities.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.SQLDataBase.Entities.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\bin\Debug\EntityFramework.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\obj\Debug\EntityFramework.SQLDataBase.Entities.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\obj\Debug\EntityFramework.SQLDataBase.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\obj\Debug\EntityFramework.SQLDataBase.Entities.csproj.CopyComplete
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\obj\Debug\EntityFramework.SQLDataBase.Entities.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.Entities\obj\Debug\EntityFramework.SQLDataBase.Entities.pdb

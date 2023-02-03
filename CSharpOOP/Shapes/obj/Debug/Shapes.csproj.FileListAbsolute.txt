@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\obj\Debug\Shapes.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\obj\Debug\Shapes.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\obj\Debug\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\bin\Debug\Shapes.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\bin\Debug\Shapes.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\obj\Debug\Shapes.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\Shapes\obj\Debug\Shapes.pdb

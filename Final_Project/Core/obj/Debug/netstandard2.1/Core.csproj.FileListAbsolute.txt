@@ -1,0 +1,10 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\bin\Debug\netstandard2.1\Core.deps.json
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\bin\Debug\netstandard2.1\Core.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\bin\Debug\netstandard2.1\Core.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.AssemblyInfoInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.AssemblyInfo.cs
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\Final_Project\Core\obj\Debug\netstandard2.1\Core.pdb

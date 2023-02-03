@@ -1,0 +1,7 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\obj\Debug\Generics.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\bin\Debug\Generics.dll.config
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\bin\Debug\Generics.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\bin\Debug\Generics.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\obj\Debug\Generics.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\Generics\Generics\obj\Debug\Generics.pdb

@@ -1,0 +1,15 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\terminal8x8.png
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\RogueLikeGame.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\RogueLikeGame.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\RogueLikeGame.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\OpenTK.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\RLNET.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\RogueSharp.dll
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\OpenTK.xml
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\bin\Debug\OpenTK.dll.config
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.csproj.CopyComplete
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\RogueLikeGame\RogueLikeGame\obj\Debug\RogueLikeGame.pdb

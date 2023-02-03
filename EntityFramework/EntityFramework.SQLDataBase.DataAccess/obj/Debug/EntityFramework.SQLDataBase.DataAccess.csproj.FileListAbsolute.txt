@@ -1,0 +1,2 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.DataAccess\obj\Debug\EntityFramework.SQLDataBase.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\EntityFramework\EntityFramework.SQLDataBase.DataAccess\obj\Debug\EntityFramework.SQLDataBase.DataAccess.csproj.CoreCompileInputs.cache

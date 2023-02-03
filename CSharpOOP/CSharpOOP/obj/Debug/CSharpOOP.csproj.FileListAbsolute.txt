@@ -1,0 +1,8 @@
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe.config
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\bin\Debug\CSharpOOP.pdb
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.csproj.CoreCompileInputs.cache
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.exe
+C:\Users\Hp\Desktop\Github\CSharpApps\CSharpOOP\CSharpOOP\obj\Debug\CSharpOOP.pdb
