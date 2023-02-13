@@ -22,5 +22,15 @@ namespace Business.Constants
         public static string CustomerDeleted = "Musteri silindi";
 
         public static string CustomerUpdated = "Musteri guncellendi";
+
+        public static string RentCountOfCategoryError = "Bir musteri cok sayida kiralama yapti";
+
+        public static string RentalDeleted = "Customer'daki rental silindi";
+
+        public static string ImageAdded = "Resim eklendi";
+
+        public static string ImageDeleted = "Resim silindi";
+
+        public static string ImageUploaded = "Resim yuklendi";
     }
 }

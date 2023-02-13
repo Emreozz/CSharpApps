@@ -30,7 +30,7 @@ namespace WebAPI.Controllers
         [HttpGet("Get")]
         public IActionResult Get(int id)
         {
-            var result = _customerService.GetAll();
+            var result = _customerService.Get(id);
             if (result.Success)
             {
                 return Ok(result.Success);

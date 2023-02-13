@@ -15,9 +15,11 @@ namespace Business.Concrete
     public class CustomerManager : ICustomerService
     {
         public ICustomerDal _customerDal;
-        public CustomerManager(ICustomerDal customerDal)
+        public IRentalService _rentalService;
+        public CustomerManager(ICustomerDal customerDal,IRentalService rentalService)
         {
             _customerDal = customerDal;
+            _rentalService = rentalService;
         }
         public IResult Add(Customer customer)
         {
@@ -29,6 +31,7 @@ namespace Business.Concrete
         {
             var deleted=_customerDal.GetAll(p=>p.UserId==id);
             _customerDal.Delete(deleted[0]);
+            DeleteCustomerInRental(id);
             return new SuccessResult(Messages.CustomerDeleted);
         }
 
@@ -44,9 +47,15 @@ namespace Business.Concrete
 
         public IResult Update(Customer customer)
         {
-            var deleted = _customerDal.GetAll(p => p.Id == customer.Id);
-            _customerDal.Update(deleted[0]);
+            var updated = _customerDal.GetAll(p => p.Id == customer.Id);
+            _customerDal.Update(updated[0]);
             return new SuccessResult(Messages.CustomerUpdated);
+        }
+
+        private IResult DeleteCustomerInRental(int id)
+        {
+            _rentalService.Delete(id);
+            return new SuccessResult(Messages.CustomerDeleted);
         }
     }
 }

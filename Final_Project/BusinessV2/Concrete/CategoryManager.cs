@@ -23,7 +23,7 @@ namespace BusinessV2.Concrete
 
         public IDataResult<Category> GetById(int categoryId)
         {
-            return new SuccessDataResult<Category> (_categoryDal.Get(c => c.CategoryID == categoryId));
+            return new SuccessDataResult<Category> (_categoryDal.Get(c => c.CategoryId == categoryId));
         }
     }
 }
